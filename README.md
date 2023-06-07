@@ -42,7 +42,8 @@ Limited support for Windows & Edge.
    - *youtubeAPI.dart (line 10)*
    - *chatAPI.dart (line 6)*
 
- to build run > flutter run --no-sound-null-safety
+ to build run the following:
+ > flutter run --no-sound-null-safety
 
 
 
