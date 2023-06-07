@@ -41,9 +41,10 @@ Just open the app and start typing to talk to Skillbuilder!
 
 
 
-*************************************************************************
 
-## COMPONENTS BREAKDOWN
+## COMPONENTS LIST
+
+### Basic Usage
   When the user is on the homepage of the app, there is a text
   box at the bottom of the screen with a send button. Entering
   text into this box and pressing send will prompt a response to
