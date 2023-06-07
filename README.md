@@ -43,7 +43,7 @@ Just open the app and start typing to talk to Skillbuilder!
 
 *************************************************************************
 
-##COMPONENTS BREAKDOWN
+## COMPONENTS BREAKDOWN
   When the user is on the homepage of the app, there is a text
   box at the bottom of the screen with a send button. Entering
   text into this box and pressing send will prompt a response to
@@ -51,7 +51,7 @@ Just open the app and start typing to talk to Skillbuilder!
   context.
 *************************************************
 
-###Clear/Stop/Collapse Options - JA
+### Clear/Stop/Collapse Options - JA
   The user may want to start fresh, clearing the screen of any old chats,
   or cancel prompts early. They may also be on a non-mobile device with
   a virtual keyboard. 3 Buttons for these features are added at the bottom
@@ -68,7 +68,7 @@ Just open the app and start typing to talk to Skillbuilder!
    will collapse any active virtual keyboards.
 *************************************************
 
-###Voice Features - EB
+### Voice Features - EB
   On the homepage, there is a microphone button located on the bottom left.
   Clicking this button will activate voice chat options, replacing the
   bottom row with 4 buttons:  
@@ -85,18 +85,18 @@ Just open the app and start typing to talk to Skillbuilder!
       (if anything was said).
 *************************************************
 
-###Chat Persistance - JA, JE
+### Chat Persistance - JA, JE
   Chat conversations are saved locally to the device, and can be
   cleared in the User Settings Page.
 *************************************************
 
-###Share Options - TM
+### Share Options - TM
   Responses from Skillbuilder can be shared!
   Pressing the share button located on the right side middle of
   Skillbuilder’s response will open devices share options.
 *************************************************
 
-###Video Options - EB
+### Video Options - EB
   Skillbuilder can also provide links to related Youtube videos!
   Pressing the video button located at the bottom of Skillbuilder’s response
   opens up a scrollable window added to the bottom of the response, where
@@ -104,14 +104,14 @@ Just open the app and start typing to talk to Skillbuilder!
   Clicking the button again will close this window.
 *************************************************
 
-###Imaging Options -JA
+### Imaging Options -JA
   When in text-only mode, use keyword “imagine”, and Skillbuilder will
   generate an image based on the prompt. These images are saved in the
   “Last Images” section of the menu, and from here they can also be shared.
   *Note: this is a text-only feature*
 *************************************************
 
-###Available Settings - JE
+### Available Settings - JE
   Pressing the 3 lines in the upper left corner will open the quick settings
   menu, where users can access 3 pages:
   1. Last Chats: where all chat history can be viewed.
@@ -123,7 +123,7 @@ Just open the app and start typing to talk to Skillbuilder!
 *************************************************************************
 
 
-##SETTINGS
+## SETTINGS
 
   **User Settings: Preferences**
   The user has the option of choosing between light mode and dark
