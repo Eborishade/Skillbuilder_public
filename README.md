@@ -33,12 +33,16 @@ Just open the app and start typing to talk to Skillbuilder!
 
 **note: This is a Keyless version of our Senior Capstone project: Skillbuilder,**
 **available for public use.**
+Built using flutter/dart, fully supports android and apple devices.
+Limited support for Windows & Edge.
+
 
 ## TO USE
   **Insert Google/Youtube API key and OpenAI/ChatGPT API key in following files:**
    - *youtubeAPI.dart (line 10)*
    - *chatAPI.dart (line 6)*
 
+ to build run > flutter run --no-sound-null-safety
 
 
 
